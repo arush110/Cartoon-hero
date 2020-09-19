@@ -1,1 +1,13 @@
-body{background-color: rgb(173, 81, 6);}
+body{margin: 0; font-family: fantasy, arial, sans-serif; text-align: center}
+header{ background-color: rgb(218, 88, 1); text-align: center; padding-top: 70px; padding-bottom: 70px; font-size: 35px;}
+header h1{color: white;}
+header img{border-radius: 50%; width: 600px; border: 30px solid white;}
+h1, h2{font-family: 'Press Start 2P', cursive;}
+main{max-width: 800px;margin: 0 auto;}
+h2{font-size: 35px; color: red;}
+ol, ul{font-size: 20px;}
+a{color: red;font-style: italic;}
+a:hover{ color: navy;}
+footer{background-color: rgb(218, 88, 1); color: white; margin: 0; padding: 50px;}
+footer a{color: white;}
+body main{background-color: whitesmoke;}
