@@ -1,6 +1,6 @@
 body{margin: 0; font-family: fantasy, arial, sans-serif; text-align: center}
 /* header styles */
-header{ background-color: rgb(218, 88, 1); text-align: center; padding-top: 70px; padding-bottom: 70px; font-size: 35px;}
+header{background-color: rgb(218, 88, 1);text-align: center; padding-top: 70px; padding-bottom: 70px; font-size: 35px;}
 header h1{color: white;}
 header img{border-radius: 50%; width: 600px; border: 30px solid white;}
 
@@ -14,3 +14,5 @@ a:hover{ color: navy;}
 /*footer styles*/
 footer{background-color: rgb(218, 88, 1); color: white; margin: 0; padding: 50px;}
 footer a{color: white;}
+
+p.caption{color: lightgray;margin: 0; text-align: left;}
