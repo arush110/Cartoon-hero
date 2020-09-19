@@ -1,0 +1,9 @@
+body{background-color: thistle;}
+h1{font-size: 30px; color: indianred;}
+h2{font-size: 20px; color: steelblue;}
+.big{font-size: 70px;}
+.uppercase{text-transform: uppercase;}
+.big.uppercase{color: teal;}
+h1 span{color: violet;}
+h2 span{font-size: 90px; color: crimson;}
+h1{background-color: rgb(78, 156, 130);}
